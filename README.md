@@ -18,6 +18,10 @@ An innovative, professional admin dashboard boilerplate built with Material-UI, 
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
